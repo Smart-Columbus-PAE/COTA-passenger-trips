@@ -2,4 +2,4 @@
 
 [Bokeh Plot](https://smart-columbus-pae.github.io/COTA-passenger-trips/COTA-riders.html)
 
-[Google Map Plot](https://smart-columbus-pae.github.io/COTA-passenger-trips/gmap.html)
+[Route Bar Plot](https://smart-columbus-pae.github.io/COTA-passenger-trips/COTA-route-barplot.html)
